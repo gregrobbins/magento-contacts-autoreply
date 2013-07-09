@@ -18,11 +18,11 @@
     </frontend>
     <global>
         <resources>
-            <contacts_setup>
+            <pwpp_contacts_setup>
                 <setup>
                     <module>Pwpp_Contacts</module>
                 </setup>
-            </contacts_setup>
+            </pwpp_contacts_setup>
         </resources>
         <template>
             <email>
